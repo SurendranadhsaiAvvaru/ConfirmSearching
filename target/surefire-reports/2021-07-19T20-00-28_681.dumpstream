@@ -1,0 +1,4 @@
+# Created at 2021-07-19T20:00:31.464
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Technical Stuff\Sprint Evaluation\Sprint - 2\Day - 4\Monster1\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
